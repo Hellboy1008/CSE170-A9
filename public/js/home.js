@@ -13,6 +13,7 @@ window.fbAsyncInit = function() {
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
     loadName();
+    initButtons();
 })
 
 /*
@@ -27,4 +28,18 @@ function loadName() {
         $('.user-name').append(name);
     }
     $('.user-name').append('!');
+}
+
+/*
+ * Function that utilizes Google Analytics for buttons
+ */
+function initButtons() {
+    $('.search-btn-a').click(function(e) {
+        e.preventDefault();
+        ga("send", "event", "like", "click");
+    });
+    $('.search-btn-b').click(function(e) {
+        e.preventDefault();
+        ga("send", "event", "like", "click");
+    });
 }

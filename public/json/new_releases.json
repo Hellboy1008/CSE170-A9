@@ -1,0 +1,45 @@
+{
+    "title": "New Releases",
+    "category-description": "Check out newly released board games from 2019!",
+    "games": [{
+        "name": "Auztralia",
+        "buyURL": "https://www.amazon.com/Stronghold-Games-SG4011-AuZtralia/dp/B07GNXB8RM",
+        "category-description": "Set in an alternate reality 1930s where the northern hemisphere lands are poisoned and the masses are starving, adventurers set out to explore and settle lands in the newly discovered Australia.",
+        "game-description": "Following the Restorationist war, the northern hemisphere lands lay poisoned and starvation was the norm. Intrepid adventurers set out to explore and settle new lands. Little did they know, after the war, the surviving Old Ones and their remaining loyal human armies made their way to the outback of Australia to lick their wounds. Build a port, construct railways, mine and farm for food. You’ll need to prepare for the awakening. You’ll need to fight.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91squjtJpnL._AC_SX425_.jpg",
+        "manualPDF": "http://www.auztralia.net/documents/Auz_Rulebook_lowres.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/kEVIO8D8fTc",
+        "rating": "4.5/5",
+        "viewURL": "/Auztralia"
+    }, {
+        "name": "Everdell",
+        "buyURL": "https://www.amazon.com/Starling-Games-54077-Everdell-Game/dp/B0792JY6G4",
+        "category-description": "Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. ",
+        "game-description": "Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?",
+        "imageURL": "https://cf.geekdo-images.com/opengraph/img/VEWfqR9sSgozm4oMz9_d9AFMOAw=/fit-in/1200x630/pic3918905.png",
+        "manualPDF": "https://static1.squarespace.com/static/5a47f99429f1876b4a3404dc/t/5afb802c70a6ad438c12055f/1526431803422/Everdell_Rulebook_draft.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/tNniTEmV6Bk",
+        "rating": "4.8/5",
+        "viewURL": "/Everdell"
+    }, {
+        "name": "Root",
+        "buyURL": "https://www.amazon.com/Leder-Games-LED01000-Root/dp/B07F454YF3",
+        "category-description": "Find adventure in a marvelous asymmetric game. Root provides limitless replay value as you and your friends explore the unique factions all wanting to rule a fantastic forest Kingdom.",
+        "game-description": "Root is a game of adventure and war in which 2 to 4 players battle for control of a vast wilderness. In Root, players drive the narrative, and the differences between each role create an unparalleled level of interaction and replayability. Leder Games invites you and your family to explore the fantastic world of Root!",
+        "imageURL": "https://www.boardgamequest.com/wp-content/uploads/2018/09/Root.jpg",
+        "manualPDF": "https://ledergames.com/w/wp-content/uploads/2019/10/Law_of_Root_21_December_2018.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/G08TDwBbV7o",
+        "rating": "4.6/5",
+        "viewURL": "/Root"
+    }, {
+        "name": "The Reckoners",
+        "buyURL": "https://www.amazon.com/Nauvoo-Games-Reckoners-Board-Game/dp/B07GRFW45G",
+        "category-description": "Ten years ago... A mysterious burst in the sky gave ordinary men and women extraordinary powers. They're called EPICS. But, every Epic turned out to be EVIL.",
+        "game-description": "The Reckoners is a simultaneous, co-operative game for 1-6 players that plays in 75 minutes. You win by defeating Steelheart. But before you can defeat him, you must first discover his weakness. Throughout the game, you will work with your fellow Reckoners to research and attack Steelheart, but he is not alone. Numerous Epics are scattered throughout the city, and they will wreak havoc upon the population, if left unchecked. If the Epics manage to destroy Newcago by reducing the population to 0, then all Reckoners lose.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51P4EOV9QPL._AC_.jpg",
+        "manualPDF": "http://www.nauvoogames.com/The_Reckoners_Rules.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/8Fj3gsvo9GA",
+        "rating": "4.7/5",
+        "viewURL": "/The_Reckoners"
+    }]
+}

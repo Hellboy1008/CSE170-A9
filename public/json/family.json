@@ -1,0 +1,45 @@
+{
+    "title": "Family Games",
+    "category-description": "Check out fun family friendly board games!",
+    "games": [{
+        "name": "Codenames",
+        "buyURL": "https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S",
+        "category-description": "Codenames is a social word game with a simple premise and challenging game play. Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames.",
+        "game-description": "The two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their Codenames. The teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.",
+        "imageURL": "https://vpc-prod-thumbor-public-gcp.boxed.com/unsafe/1024x800/filters:quality(100):max_bytes(200000):fill(white)/https://dcmzfk78s4reh.cloudfront.net/1570462154675.jpg",
+        "manualPDF": "https://czechgames.com/files/rules/codenames-rules-en.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/zQVHkl8oQEU",
+        "rating": "4.8/5",
+        "viewURL": "/Codenames"
+    }, {
+        "name": "Pandemic",
+        "buyURL": "https://www.amazon.com/Z-Man-Games-ZM7101-Pandemic/dp/B00A2HD40E",
+        "category-description": "Four diseases have broken out in the world and it is up to a team of specialists in various fields to find cures for these diseases before mankind is wiped out.",
+        "game-description": "Players must work together playing to their characters' strengths and planning their strategy of eradication before the diseases overwhelm the world with ever-increasing outbreaks. For example the Operation Specialist can build research stations which are needed to find cures for the diseases. The Scientist needs only 4 cards of a particular disease to cure it instead of the normal 5. But the diseases are out breaking fast and time is running out: the team must try to stem the tide of infection in diseased areas while also towards cures. A truly cooperative game where you all win or you all lose.",
+        "imageURL": "https://images.zmangames.com/filer_public/98/0c/980c04bc-781a-4de7-8034-6ff6f054d7b7/zm7101_box_front_520px.png",
+        "manualPDF": "https://images-cdn.zmangames.com/us-east-1/filer_public/25/12/251252dd-1338-4f78-b90d-afe073c72363/zm7101_pandemic_rules.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/4RxqzBA_HRs",
+        "rating": "4.8/5",
+        "viewURL": "/Pandemic"
+    }, {
+        "name": "Sequence",
+        "buyURL": "https://www.amazon.com/Jax-8002-Sequence-Game/dp/B00000IVAK",
+        "category-description": "It's fun, it's challenging, it's exciting, it's sequence! Play a card from your hand, and place a chip on a corresponding space on the game board. When you have five in a row, it's a sequence.",
+        "game-description": "The board shows all the cards (except for the Jacks) of two (2) standard 52-card decks, laid in a 10 x 10 pattern. The four corners are free spaces and count for all players equally. The players compete to create rows, columns or diagonals of 5 connected checkers placed on the cards that the player has laid down. Two-eyed Jacks are wild, while one-eyed Jacks allow an opponent's checker to be removed. The game ends when someone has reached a specified number of connections.",
+        "imageURL": "https://www.gophersport.com/cmsstatic/g-58845-Sequence-24-3.jpg",
+        "manualPDF": "https://www.jaxgames.com/sequence-game-rules/",
+        "tutorialVid": "https://www.youtube.com/embed/RK8defbdNEA",
+        "rating": "4.9/5",
+        "viewURL": "/Sequence"
+    }, {
+        "name": "The Settlers of Catan",
+        "buyURL": "https://www.amazon.com/Catan-Studios-cantan2017/dp/B00U26V4VQ?ref_=fsclp_pl_dp_1",
+        "category-description": "In Catan, players are recent immigrants to the newly populated island of Catan. Expand your colony through the building of settlements, roads, and villages by harvesting commodities from the land around you.",
+        "game-description": "The Settlers of Catan from Mayfair Games is an award-winning strategy game where players collect resources and use them to build roads, settlements and cities on their way to victory. The board itself is variable, making each game a little different from the next.",
+        "imageURL": "https://crowscastle.com/375-large_default/the-settlers-of-catan.jpg",
+        "manualPDF": "https://www.catan.com/service/game-rules",
+        "tutorialVid": "https://www.youtube.com/embed/cPhX_1RiwEg",
+        "rating": "4.8/5",
+        "viewURL": "/The_Settlers_Of_Catan"
+    }]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Kids Games",
+    "category-description": "Check out fun board games for kids!",
+    "games": [{
+        "name": "Clue",
+        "buyURL": "https://www.amazon.com/Hasbro-N-A-Clue-Game/dp/B07BMJPPXV",
+        "category-description": "River has been betrayed and handed over to the Alliance. Now with Clue: Firefly Edition, help the Serenity crew discover who is working with the Alliance, what they used to betray River and where on Serenity the kidnapping took place.",
+        "game-description": "The Clue game gets an update with a card-revealing mirror that holds the answers to the mystery. In this suspenseful game, players have to find out who's responsible for murdering Mr. Boddy of Tudor Mansion in his own home. Get the scoop on the mansion's rooms, weapons, and guests and start detecting! Was it Plum with the wrench in the library? Or Green with the candlestick in the study? Eliminate information throughout the game in this whodunit. When a player is ready to make an accusation, they secretly press the button on the mirror to reveal Who, What, and Where. A correct accusation wins the game!",
+        "imageURL": "https://cdn-consumercrafts.netdna-ssl.com/Content/Images/ProductImages/XL/Alt2/HAS5826.jpg",
+        "manualPDF": "https://www.fgbradleys.com/rules/Clue.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/sg_57S4l5Ng",
+        "rating": "4.8/5",
+        "viewURL": "/Clue"
+    }, {
+        "name": "Monopoly",
+        "buyURL": "https://www.amazon.com/Hasbro-00009-482-Monopoly-Board/dp/B00CV5PN2W",
+        "category-description": "The worlds most popular board game where you learn to buy real estate, collect rents, and build hotels - just don't go broke! Ideal for ages 8 and up. Perfect for 2-8 players.",
+        "game-description": "Monopoly is a board game currently published by Hasbro. In the game, players roll two six-sided dice to move around the game board, buying and trading properties, and developing them with houses and hotels. Players collect rent from their opponents, with the goal being to drive them into bankruptcy.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81qy%2BMXuxDL._AC_SL1392_.jpg",
+        "manualPDF": "https://www.hasbro.com/common/instruct/00009.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/wmZqhFO-QNE",
+        "rating": "4.5/5",
+        "viewURL": "/Monopoly"
+    }, {
+        "name": "Scrabble",
+        "buyURL": "https://www.amazon.com/Hasbro-Gaming-A8166-Scrabble-Game/dp/B00IL5XY9K",
+        "category-description": "Scrabble, the classic crossword game, is full-on fun for friends and family. You can feel the excitement begin as soon as you rack up your letters, choose a great word, and hope to land on a triple-word score.",
+        "game-description": "Put letters together, build words, add up your points and win! This classic game features the classic Scrabble equipment for a big-time word-on-word showdown. Do you see a word your opponent hasn't seen. A double or triple letter or word space that will let you earn big points. Could the luck of the draw win you the game. Use your letters to score points and challenge your family and friends. It’s your word against theirs! Scrabble and all related characters are trademarks of Hasbro.",
+        "imageURL": "https://store.schoolspecialty.com/OA_HTML/xxssi_ibeGetWCCImage.jsp?docName=F1606890&Rendition=Large",
+        "manualPDF": "https://scrabble.hasbro.com/en-us/rules",
+        "tutorialVid": "https://www.youtube.com/embed/K1KgvZwwJqo",
+        "rating": "4.8/5",
+        "viewURL": "/Scrabble"
+    }, {
+        "name": "The Game of Life",
+        "buyURL": "https://www.amazon.com/The-Game-of-Life/dp/B00CM2IFT2",
+        "category-description": "The game simulates a person's travels through his or her life, from college to retirement, with jobs, marriage, and possible children along the way. Two to four or six players can participate in one game.",
+        "game-description": "Do you have what it takes to win The Game of Life game? You do it by choosing the life you want! Go to college, take the family path, have kids, or see what happens when unexpected twists change the game. Will you receive a fortune and lose it as quickly as you got it? Will you need a bank loan to pay a debt? Once everyone reaches the end of the game at retirement, everyone pays their debts and adds up their wealth. The player with the most money wins the game, so make sure it’s you! It’s all your choice when you play The Game of Life!",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71Qec8xXstL._AC_SL1361_.jpg",
+        "manualPDF": "https://www.hasbro.com/common/instruct/life.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/3ntNilTsGog",
+        "rating": "4.3/5",
+        "viewURL": "/The_Game_Of_Life"
+    }]
+}

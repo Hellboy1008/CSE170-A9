@@ -1,0 +1,240 @@
+html {
+    overflow: scroll;
+}
+
+body {
+    background: #fffff0;
+}
+
+.header-bar {
+    background-image: linear-gradient(to bottom, #feada6 0%, #f5efef 100%);
+}
+
+.header {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.searchbar input[type=text] {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    font-size: 11.5px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+.searchbar button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+.searchbar button:hover {
+    background: #0b7dda;
+}
+
+.searchbar::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.tabs {
+    display: inline-block;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    width: 100%;
+}
+
+.tabs a {
+    color: black;
+}
+
+.midtab {
+    display: inline-block;
+}
+
+.category-title {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.category-description {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.game {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.gametitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: black;
+}
+
+.gamedescription {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.user-btn {
+    padding: 6px 20px;
+    margin: 0;
+    cursor: pointer;
+    border: 1px transparent;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.buy-btn {
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
+.user-btn:focus {
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+
+.game-rating {
+    display: inline-flex;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+@media screen and (max-width: 812px) {
+    body {
+        margin-bottom: 15px;
+    }
+    .header-bar {
+        padding-bottom: 10px;
+    }
+    .header {
+        margin-top: 30px;
+        margin-left: 15px;
+        position: absolute;
+    }
+    .searchbar {
+        width: 150px;
+        position: relative;
+        margin-top: 35px;
+        margin-left: 220px;
+        left: -20px;
+    }
+    .searchbar input {
+        height: 15px;
+    }
+    .searchbar button {
+        height: 20px;
+        width: 18%;
+        font-size: 10px;
+    }
+    .searchbar i {
+        position: relative;
+        bottom: 4px;
+        right: 2px;
+    }
+    .tabs {
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        border-radius: 4px;
+    }
+    .tabs a {
+        font-size: 20px;
+        text-align: center;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .home-tab {
+        padding-left: 20px;
+    }
+    .midtab {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .dropdown-menu {
+        min-width: 90px;
+        left: 117px;
+        border-radius: 4px;
+        padding-bottom: 0px;
+        background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+        border: 0px;
+    }
+    .dropdown-menu a {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300 !important;
+        font-size: 12px;
+        color: black !important;
+        margin: 0px;
+        margin-bottom: 5px;
+    }
+    .dropdown-menu li>a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .dropdown-menu .kids {
+        margin-bottom: 0px;
+    }
+    .back-btn {
+        margin-top: 15px;
+        margin-left: 15px;
+        background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+        border: 1px solid royalblue;
+        border-radius: 2px;
+        font-size: 15px;
+    }
+    .category-title {
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .category-description {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .gamepic {
+        width: 140px;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .gametitle {
+        font-size: 11px;
+    }
+    .gamedescription {
+        width: 180px;
+        margin-left: 20px;
+        font-size: 10px;
+        margin-top: 40px;
+    }
+    .user-btn {
+        margin-top: 15px;
+        margin-left: 20px;
+        font-size: 12px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .buy-game {
+        margin-left: 30px;
+    }
+    .game-rating {
+        font-size: 15px;
+        margin-left: 15px;
+    }
+}

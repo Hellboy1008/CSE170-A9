@@ -1,0 +1,192 @@
+html {
+    overflow: scroll;
+}
+
+body {
+    background: #fffff0;
+}
+
+.topimg {
+    max-width: 100%;
+    height: auto;
+}
+
+.header {
+    display: inline;
+}
+
+.headertxt {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 200px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    position: relative;
+}
+
+.description {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.user-name {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.links {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.new-releases {
+    color: #FF7100;
+}
+
+.trending {
+    color: #064BDE;
+}
+
+.contact {
+    color: #00D8D0;
+}
+
+.links a {
+    color: #FFA900;
+}
+
+.dropdown-menu {
+    float: unset;
+    text-align: center;
+    border-radius: 0px;
+    border: 1px solid #FFA900;
+}
+
+.dropdown-menu .botborder {
+    border-bottom: 1px solid #FFA900;
+}
+
+.dropdown-menu li a {
+    color: #FFA900;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    margin: auto;
+    max-width: 300px;
+}
+
+.searchbar input[type=text] {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+.searchbar button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+.searchbar button:hover {
+    background: #0b7dda;
+}
+
+.searchbar::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.icons {
+    display: inline;
+}
+
+@media screen and (max-width: 812px) {
+    .topimg {
+        width: 15%;
+    }
+    .topimgbig {
+        width: 12%;
+    }
+    .header {
+        margin-top: 15px;
+    }
+    .headertxt {
+        font-size: 40px;
+        margin-left: 1px;
+        margin-right: 1px;
+        top: 40px;
+    }
+    .description {
+        font-size: 18px;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .user-name {
+        font-size: 16px;
+    }
+    .links {
+        margin-top: 50px;
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .links .dropdown-toggle {
+        margin-left: 70px;
+    }
+    .dropdown-menu {
+        min-width: 100px;
+        left: 71px;
+        top: 25px;
+        padding: 0px;
+    }
+    .centerimg {
+        width: 70%;
+        margin-top: 30px;
+    }
+    .linksbot {
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+    .contact {
+        margin-left: 120px;
+    }
+    .searchbar {
+        padding-top: 70px;
+        margin: auto;
+        width: 250px;
+    }
+    .searchbar input {
+        height: 30px;
+    }
+    .searchbar button {
+        font-size: 8px;
+    }
+    .icons {
+        margin-top: 70px;
+        width: 55px;
+    }
+    .fb {
+        margin-left: 135px;
+    }
+    .insta {
+        margin-left: 10px;
+    }
+}

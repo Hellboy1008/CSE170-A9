@@ -1,0 +1,38 @@
+<html>
+
+<head>
+
+	<title>Data Board - {{name}}</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/bootstrap-theme.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link href="css/game.css" rel="stylesheet">
+	<script src="js/jquery-1.11.0.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/searchbar.js"></script>
+
+</head>
+
+<body>
+
+	{{> headerbar}}
+
+	<h1 class="gametitle"> {{name}} </h1>
+
+	<button class="buy-game" onclick="window.open('{{buyURL}}','_blank');">Buy</button>
+	<p class="game-rating">Rating: {{rating}}</p>
+	<img class="gamepic" src="{{imageURL}}"></img>
+
+	<p class="gamedescription">{{game-description}}</p>
+
+	<a class="gamemanual" target="_blank" href="{{manualPDF}}">Link To Manual</a>
+
+	<iframe src="{{tutorialVid}}" class="gamevid" width="300" height="200" frameborder="0" allowfullscreen>
+	</iframe>
+
+</body>
+
+</html>

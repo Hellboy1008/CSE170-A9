@@ -1,0 +1,45 @@
+{
+    "title": "Party Games",
+    "category-description": "Check out fun party games for group bonding!",
+    "games": [{
+        "name": "Coup",
+        "buyURL": "https://www.amazon.com/Indie-Boards-and-Cards-COU1IBC/dp/B00GDI4HX4",
+        "category-description": "In the not too distant future, the government is run for profit by a new royal class of multi-national CEOs. Out of the oppressed masses rose The Resistance, an underground organization focused on overthrowing these powerful rulers.",
+        "game-description": "In Coup, you want to be the last player with influence in the game, with influence being represented by face-down character cards in your playing area. Each player starts the game with two coins and two influence – i.e., two face-down character cards; the fifteen card deck consists of three copies of five different characters, each with a unique set of powers.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQ3hlvXNoAJEkNEEmdpeHaPWlbOfgHQldsum7EUU0kKmNGBaF8",
+        "manualPDF": "https://herebegames.com.au/rulebooks/Coup-Rules.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/a8bY3zI9FL4",
+        "rating": "4.8/5",
+        "viewURL": "/Coup"
+    }, {
+        "name": "Deception",
+        "buyURL": "https://www.amazon.com/Grey-Fox-Games-Deception-Murder/dp/B019FPQZNG",
+        "category-description": "In Deception: Murder in Hong Kong, players find themselves in a scenario of intrigue and murder, deduction and deception. One player is the Murderer, secretly choosing their weapon and the evidence they leave behind.",
+        "game-description": "One player is the Murderer, secretly choosing their weapon and the evidence they leave behind. Another is the Forensic Scientist who holds the key to convicting the criminal but is only able to express their knowledge through analysis of the scene. The rest are investigators, interpreting the clues to solve the crime – and the killer is among them. Investigators must collaborate and use their wits, their hunches, and their keen deductive insight to correctly identify the means of murder and the key evidence to convict the killer.",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0921/7330/products/J6-3_MURDER_HK_M_900x900.jpg?v=1568404952",
+        "manualPDF": "https://www.ultraboardgames.com/deception-murder-in-hong-kong/game-rules.php",
+        "tutorialVid": "https://www.youtube.com/embed/ojhUGtnyecA",
+        "rating": "4.8/5",
+        "viewURL": "/Deception"
+    }, {
+        "name": "Dixit",
+        "buyURL": "https://www.amazon.com/Asmodee-DIX01-Dixit/dp/2914849656",
+        "category-description": "Every picture tells a story – but what story will your picture tell? Dixit is the lovingly illustrated game of creative guesswork, where your imagination unlocks the tale. In this award-winning board game, players will use the beautiful imagery on their cards to bluff their opponents and guess which image matches the story.",
+        "game-description": "Every turn, the storyteller will call out a short phrase or word to match the image on his card. Then each player will choose the card that most closely matches that phrase, and then everyone must guess which card the storyteller saw when he invented his brief tale. Correctly guess the storyteller’s card, and you’ll move ahead. Convince everyone else that your card is best, and you’ll do even better.",
+        "imageURL": "https://cf.geekdo-images.com/opengraph/img/0Pu9oJx4vlXsl5sHTdjcBP7VHBM=/fit-in/1200x630/pic3483909.jpg",
+        "manualPDF": "https://www.ultraboardgames.com/dixit/game-rules.php",
+        "tutorialVid": "https://www.youtube.com/embed/Qi4MoW6NuaQ",
+        "rating": "4.8/5",
+        "viewURL": "/Dixit"
+    }, {
+        "name": "Secret Hitler",
+        "buyURL": "https://www.amazon.com/Secret-Hitler/dp/B01JKD4HYC",
+        "category-description": "Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930's Germany. Players are secretly divided into two teams - liberals and fascists. Known only to each other, the fascists coordinate to sow distrust and install their cold-blooded leader. The liberals must find and stop the Secret Hitler before it’s too late.",
+        "game-description": "Secret Hitler is a social deduction game for 5-10 people about finding and stopping the Secret Hitler. Players are secretly divided into two teams: the liberals, who have a majority, and the fascists, who are hidden to everyone but each other.If the liberals can learn to trust each other, they have enough votes to control the elections and save the day.But the fascists will say whatever it takes to get elected, advance their agenda, and win the game.",
+        "imageURL": "https://static01.nyt.com/images/2017/09/09/arts/09xp-secrethitler-1/merlin-to-scoop-126367670-764268-superJumbo.jpg",
+        "manualPDF": "https://secrethitler.com/assets/Secret_Hitler_Rules.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/mbGXIDYdtas",
+        "rating": "4.8/5",
+        "viewURL": "/Secret_Hitler"
+    }]
+}

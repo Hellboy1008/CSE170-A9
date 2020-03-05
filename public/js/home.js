@@ -16,6 +16,8 @@ $(document).ready(function() {
     initButtons();
 })
 
+no_name = true;
+
 /*
  * Function that loads user's name on screen
  */
@@ -26,7 +28,27 @@ function loadName() {
     if (name != "null" && name != "undefined") {
         $('.user-name').text('Welcome back, ');
         $('.user-name').append(name);
+        no_name = false;
     }
+    $('.user-name').append('!');
+    console.log(no_name);
+}
+
+// Call this function when the page loads
+window.onload = function() {
+    if (no_name == true) {
+        window.alert("Username was not detected. Please click \"Anonymous\" if you want to change your name.");
+    }
+}
+
+/*
+ * Function that changes user's name
+ */
+function changeName() {
+    var name = prompt("Please enter your name");
+    localStorage.setItem('user-name', name);
+    $('.user-name').text('Welcome back, ');
+    $('.user-name').append(name);
     $('.user-name').append('!');
 }
 

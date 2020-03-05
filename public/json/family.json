@@ -12,6 +12,16 @@
         "rating": "4.8/5",
         "viewURL": "/Codenames"
     }, {
+        "name": "Monopoly",
+        "buyURL": "https://www.amazon.com/Hasbro-00009-482-Monopoly-Board/dp/B00CV5PN2W",
+        "category-description": "The worlds most popular board game where you learn to buy real estate, collect rents, and build hotels - just don't go broke! Ideal for ages 8 and up. Perfect for 2-8 players.",
+        "game-description": "Monopoly is a board game currently published by Hasbro. In the game, players roll two six-sided dice to move around the game board, buying and trading properties, and developing them with houses and hotels. Players collect rent from their opponents, with the goal being to drive them into bankruptcy.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81qy%2BMXuxDL._AC_SL1392_.jpg",
+        "manualPDF": "https://www.hasbro.com/common/instruct/00009.pdf",
+        "tutorialVid": "https://www.youtube.com/embed/wmZqhFO-QNE",
+        "rating": "4.5/5",
+        "viewURL": "/Monopoly"
+    }, {
         "name": "Pandemic",
         "buyURL": "https://www.amazon.com/Z-Man-Games-ZM7101-Pandemic/dp/B00A2HD40E",
         "category-description": "Four diseases have broken out in the world and it is up to a team of specialists in various fields to find cures for these diseases before mankind is wiped out.",

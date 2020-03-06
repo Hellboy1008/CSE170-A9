@@ -58,7 +58,7 @@ exports.viewOneNightUltimateWerewolf = function(req, res) {
 }
 
 exports.viewPandemic = function(req, res) {
-    res.render('game', data_family.games[1]);
+    res.render('game', data_family.games[2]);
 }
 
 exports.viewRoot = function(req, res) {
@@ -74,7 +74,7 @@ exports.viewSecretHitler = function(req, res) {
 }
 
 exports.viewSequence = function(req, res) {
-    res.render('game', data_family.games[2]);
+    res.render('game', data_family.games[3]);
 }
 
 exports.viewTicketToRide = function(req, res) {
@@ -94,7 +94,7 @@ exports.viewTheResistance = function(req, res) {
 };
 
 exports.viewTheSettlersOfCatan = function(req, res) {
-    res.render('game', data_family.games[3]);
+    res.render('game', data_family.games[4]);
 };
 
 exports.viewUNO = function(req, res) {

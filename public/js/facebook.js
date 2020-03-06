@@ -1,3 +1,5 @@
+headers.set("x-frame-options", "sameorigin");
+
 function checkLoginState() {
     for (i = 0; i < 5; i++) {
         loginFB();
